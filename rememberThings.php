@@ -1,5 +1,6 @@
 <?php
 
+//so main differences are $, the . instead of +, and the function scope
 $txt = "Hello world!";
 $x = 5;
 $y = 10.5;
